@@ -1,3 +1,5 @@
  - Add an option to read from a common words list and filter those out and their variations (like 'as' or ' as' or 'as ' or ' as ' or if the common word is directly followed by puncuation characters)
  - Remove listings that have special characters or punctuation except for -
  - Add an option to create a common wordlist based on frequency of a word occuring, sorted by most occuring to least, then have a switch to create a csv text file from that
+ - Common word list options:
+  - https://github.com/first20hours/google-10000-english/blob/master/google-10000-english-no-swears.txt
