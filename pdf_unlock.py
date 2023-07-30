@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import PyPDF2
 import argparse
 from tqdm import tqdm
