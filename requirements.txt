@@ -1,0 +1,6 @@
+argparse
+pymupdf
+nltk
+tqdm
+pypdf2
+PyCryptodome
