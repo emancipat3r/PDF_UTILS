@@ -4,3 +4,4 @@ nltk
 tqdm
 pypdf2
 PyCryptodome
+rich
